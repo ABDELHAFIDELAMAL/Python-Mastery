@@ -1,0 +1,8 @@
+id,prenom,nom,note
+1,elamal,abdelhafid,12
+2,eliroui,chakib,12
+3,elamal,david,11
+id,prenom,nom,note
+1,,,
+2,,,
+3,,,
